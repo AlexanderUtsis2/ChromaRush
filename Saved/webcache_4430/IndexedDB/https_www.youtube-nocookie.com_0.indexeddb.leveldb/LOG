@@ -1,0 +1,6 @@
+2023/10/21-15:13:41.324 e2cc Creating DB C:/Users/autsi/OneDrive - University of Illinois - Urbana/CS415/UnrealProjects/ChromaRush/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/10/21-15:13:41.345 e2cc Reusing MANIFEST C:/Users/autsi/OneDrive - University of Illinois - Urbana/CS415/UnrealProjects/ChromaRush/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/21-15:16:50.686 db4 Level-0 table #5: started
+2023/10/21-15:16:50.702 db4 Level-0 table #5: 1167 bytes OK
+2023/10/21-15:16:50.704 db4 Delete type=0 #3
+2023/10/21-15:16:50.704 db4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
