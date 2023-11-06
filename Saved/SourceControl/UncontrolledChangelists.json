@@ -4,6 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
+<<<<<<< HEAD
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
 				"C:/Users/autsi/UnrealProjects/ChromaRush_Git/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -6499,6 +6500,9 @@
 				"C:/Users/autsi/OneDrive - University of Illinois - Urbana/CS415/UnrealProjects/ChromaRush/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MO/9PZDPE0ADQQ3P9HYDH9L2N.uasset",
 				"C:/Users/autsi/OneDrive - University of Illinois - Urbana/CS415/UnrealProjects/ChromaRush/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0B/UL36JUX6GH5WC0XG5S9ZFO.uasset"
 			]
+=======
+			"files": []
+>>>>>>> e-updates
 		}
 	]
 }
